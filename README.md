@@ -1,5 +1,7 @@
 # IC-TaRSila
-Materiais da iniciação científica junto ao projeto TaRSila
+Materiais da iniciação científica junto ao projeto TaRSila.
+Orientadora: profª Sandra Maria Aluísio
+ICMC - USP
 
 ## Autores
 - Ricardo Marcondes Marcacini
